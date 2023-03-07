@@ -1,0 +1,38 @@
+export const tutorRoutes=[
+    {
+        name:"Transactions",
+        route:"/tutor/transaction"
+    },
+    {
+        name:"Classes",
+        route:"/tutor/classes"
+    },
+    {
+        name:"Documents",
+        route:"/tutor/documents"
+    },
+    {
+        name:"Actions",
+        route:"/tutor/actions"
+    },
+    {
+        name:"About",
+        route:"/tutor/about"
+    },
+    {
+        name:"Bank Details",
+        route:"/tutor/bank-details"
+    },
+    {
+        name:"Gallery",
+        route:"/tutor/gallery"
+    },
+    {
+        name:"Reviews",
+        route:"/tutor/reviews"
+    },
+    {
+        name:"Packages",
+        route:"/tutor/packages"
+    },
+]
